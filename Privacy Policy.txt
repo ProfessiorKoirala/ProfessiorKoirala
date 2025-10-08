@@ -1,0 +1,111 @@
+Privacy Policy for MYnager
+
+Last Updated: October 7, 2025
+
+Thank you for using MYnager, a café and tea shop management app designed to help business owners manage inventory, employees, sales, and expenses in one place.
+Your privacy is very important to us, and we are committed to protecting your personal information.
+
+1. Information We Collect
+
+MYnager is designed to store and process data locally on your device only.
+We do not collect, share, or transmit any personal or business data to external servers.
+
+The information stored locally on your device may include:
+
+User profile data (name, business name, profile photo, bio)
+
+Employee details (name, contact, position)
+
+Product and inventory data
+
+Sales and expense records
+
+Profit and loss reports
+
+Café photos or gallery uploads
+
+App settings and preferences
+
+All such information remains private to you and is not accessible by the developer or any third party.
+
+2. Data Storage and Security
+
+All app data is stored locally on your mobile device in encrypted form using AES-256 encryption.
+
+No data is sent to any online server or cloud storage by default.
+
+You can optionally back up or restore your data manually using the app’s built-in local backup feature.
+
+The app does not automatically sync or upload data to external servers.
+
+We take appropriate measures to prevent unauthorized access, alteration, or disclosure of your data.
+
+3. Permissions Used
+
+The app may request the following permissions only for functional purposes:
+
+Storage Access: To save reports, photos, and local backups.
+
+Camera Access: To take profile or café photos.
+
+Gallery Access: To upload images for profile and café gallery.
+
+Location Access (Optional): To link your café’s Google Maps listing and view map-based data.
+
+All permissions are used strictly for app functionality and never for external tracking.
+
+4. Third-Party Services
+
+MYnager does not use third-party analytics, ads, or cloud databases.
+However, the app may display or open external links to:
+
+Facebook Page
+
+Instagram Page
+
+Google Maps business listing
+
+These links open in your browser or relevant app, and their privacy policies apply separately.
+
+5. Data Sharing
+
+We do not share, sell, or transfer any user or business data to any third parties.
+All information remains local and under your full control.
+
+6. Your Rights
+
+As the user, you have full control over your data. You can:
+
+View and manage all stored data within the app.
+
+Delete any data or perform a full data reset.
+
+Export and back up your data manually.
+
+Since data never leaves your device, your privacy rights are automatically protected.
+
+7. Children’s Privacy
+
+This app is not intended for children under the age of 13.
+We do not knowingly collect or store information about children.
+
+8. Changes to This Privacy Policy
+
+We may update this Privacy Policy periodically to reflect new features or legal requirements.
+The updated version will be available within the app and will include a revised “Last Updated” date.
+
+9. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or data handling in MYnager, please contact:
+
+Developer: Sandesh Koirala
+App Name: MYnager
+Email: Sandeshkoirala009@gmail.com
+Country: Nepal
+
+Summary
+
+✅ All data stored locally and encrypted
+✅ No servers or third-party sharing
+✅ You control and manage your information
+✅ Compliant with Google Play & GDPR privacy standards
